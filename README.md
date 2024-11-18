@@ -8,6 +8,8 @@ git tag -a v1.0 -m "Initial release v1.0"![image](https://github.com/user-attach
 ![image](https://github.com/user-attachments/assets/aec9caf8-f10e-4885-ae75-83ffb0623ad7)
 
 
+from file_name import function,function
+
 ```python
   # Define a dictionary to store employee information
 employee_data = [
