@@ -8,8 +8,14 @@ git tag -a v1.0 -m "Initial release v1.0"![image](https://github.com/user-attach
 ![image](https://github.com/user-attachments/assets/aec9caf8-f10e-4885-ae75-83ffb0623ad7)
 
 
+git tag -a v1.0 -m "Initial release v1.0"
+git push origin v1.0
+
+
 from file_name import function,function
 git push --set-upstream origin master     or      git push -u origin
+
+
 
 ```python
   # Define a dictionary to store employee information
