@@ -1,3 +1,6 @@
 [submodule "Lab3"]
 	path = Lab3
 	url = https://github.com/NGBEE2024/Lab3.git
+[submodule "LabTestRef"]
+	path = LabTestRef
+	url = https://github.com/kinda1vin/LabTestRef.git
